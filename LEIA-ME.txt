@@ -1,0 +1,16 @@
+ALPHA DESIGNERS — SITE MOBILE
+
+Este pacote foi feito para ser o mais simples possível no celular.
+
+IMPORTANTE:
+1. Crie um repositório NOVO no GitHub.
+2. Envie TODOS os arquivos deste pacote juntos para a RAIZ do repositório.
+3. Não crie pasta assets.
+4. Não renomeie nenhum arquivo.
+5. No Render crie um Static Site.
+6. Root Directory: vazio
+7. Build Command: vazio
+8. Publish Directory: .
+9. Faça o deploy.
+
+O site não usa Python, Flask, requirements.txt, JavaScript externo ou pastas.
